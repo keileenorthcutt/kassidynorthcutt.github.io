@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/found_photos.jpg
+image: img/found_photos.png
 title: "Found Photos"
 date: 2025
 published: true
