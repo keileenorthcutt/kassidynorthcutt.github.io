@@ -11,3 +11,5 @@ labels:
   - Props
 summary: "A photo project I completed during my sophomore fall about the relationship between Black women and beauty."
 ---
+
+TELL MORE HERE!
