@@ -9,7 +9,6 @@
     "summary": "I am pursuing a BA in Photography with a minor in Art Education from Pratt Institute, and I expect to graduate in May 2027. Go to the 'About' page to learn more about me!",
     "location": { "address": "", "postalCode": "", "city": "New York", "countryCode": "USA", "region": "New York" },
     "profiles": [
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
       { "network": "instagram", "username": "kassidydru11", "url": "http://instagram.com/kassidydru11" }
     ]
   },
