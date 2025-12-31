@@ -13,3 +13,5 @@ gem 'html-proofer'
 gem 'jekyll-gist'
 gem 'rouge'
 
+gem "github-pages", group: :jekyll_plugins
+
