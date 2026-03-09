@@ -15,9 +15,10 @@
   },
   "interests": [
     { "name": "Photography" },
-    { "name": "Early Childhood Education" },
+    { "name": "Early Education" },
     { "name": "Social Justice" },
-    { "name": "Art History" }
+    { "name": "Art History" },
+    { "name": "Environmentalism"}
   ],
   "skills": [
     {
