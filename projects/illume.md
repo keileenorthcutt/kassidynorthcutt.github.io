@@ -11,6 +11,8 @@ labels:
   - Zine
 ---
 
+Selected Photos : 
+
 <img src="../img/illume/image10.jpg" width="300" height="300">
 <img src="../img/illume/image11.jpg" width="300" height="300">
 <img src="../img/illume/image19.jpg" width="300" height="300">
