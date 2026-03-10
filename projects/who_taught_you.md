@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/found_photos.png
+image: img/who_taught_you/image2.jpg
 title: "Who Taught You to Hate Yourself?"
 date: 2024-2025
 published: true
