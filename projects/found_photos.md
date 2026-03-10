@@ -8,11 +8,10 @@ published: true
 labels:
   - Archives
   - Narrative
-  - Non-Traditional Photographic Techiques
+  - Non-Traditional Photographic Techniques
   - Conceptual
   - MultiMedia
   - Hand-tinting
-summary: "A project I completed my sophomore spring about lost photographs."
 ---
 
 Artist Statement: 
