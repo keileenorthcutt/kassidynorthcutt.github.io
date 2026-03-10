@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/found_photos.png
+image: img/self_portraits/image40.jpg
 title: "Large Format Self-Portraits"
 date: 2025
 published: true
