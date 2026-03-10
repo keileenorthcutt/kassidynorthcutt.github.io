@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/found_photos.png
+image: img/never_wanted/image18.jpg
 title: "I'm a Man I Never Wanted to Be"
 date: 2025-present
 published: true
