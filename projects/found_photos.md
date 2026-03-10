@@ -21,17 +21,17 @@ The medium of photography has allowed generations of individuals to document the
 
 Selected Photos :
 
-<img src="../img/found_photos/image24.jpg" width="300" height="300">
-<img src="/img/found_photos/image29.jpg" width="300" height="300">
-<img src="/img/found_photos/image3.jpg" width="300" height="300">
-<img src="/img/found_photos/image30.jpg" width="300" height="300">
-<img src="/img/found_photos/image31.jpg" width="300" height="300">
-<img src="/img/found_photos/image39.jpg" width="300" height="300">
-<img src="/img/found_photos/image4.jpg" width="300" height="300">
-<img src="/img/found_photos/image43.jpg" width="300" height="300">
-<img src="/img/found_photos/image49.jpg" width="300" height="300">
-<img src="/img/found_photos/image54.jpg" width="300" height="300">
-<img src="/img/found_photos/image55.jpg" width="300" height="300">
-<img src="/img/found_photos/image57.jpg" width="300" height="300">
+<img src="../img/found_photos/image24.jpg">
+<img src="../img/found_photos/image29.jpg" width="300" height="300">
+<img src="../img/found_photos/image3.jpg" width="300" height="300">
+<img src="../img/found_photos/image30.jpg" width="300" height="300">
+<img src="../img/found_photos/image31.jpg" width="300" height="300">
+<img src="../img/found_photos/image39.jpg" width="300" height="300">
+<img src="../img/found_photos/image4.jpg" width="300" height="300">
+<img src="../img/found_photos/image43.jpg" width="300" height="300">
+<img src="../img/found_photos/image49.jpg" width="300" height="300">
+<img src="../img/found_photos/image54.jpg" width="300" height="300">
+<img src="../img/found_photos/image55.jpg" width="300" height="300">
+<img src="../img/found_photos/image57.jpg" width="300" height="300">
 
 
