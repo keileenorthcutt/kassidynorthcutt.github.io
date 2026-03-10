@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/found_photos.png
+image: img/tennessee2/image16.jpg
 title: "The Tennessee I See Pt 2"
 date: 2025
 published: true
