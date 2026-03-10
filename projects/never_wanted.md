@@ -20,3 +20,11 @@ What does it mean to offer understanding to people we have been taught not to em
 A mugshot often becomes the entire story. One frame can erase a person’s upbringing, environment, and the pressures that shaped their decisions. These images appear objective, yet they are circulated by institutions invested in reducing people to their worst moment. The source material I engage with, public databases, news archives, state records, reveals how easily systems release information designed to dehumanize and how readily society accepts this flattening. The gap between public narratives of “justice” and the lived reality of incarceration is wide: cages labeled as rehabilitation, economies built on containment, and a constant expectation that people should somehow rebuild their lives while carrying permanent barriers to employment, housing, and social acceptance. The idea of “serving your time” collapses when the consequences persist long after release.
 Ultimately, the work challenges the instinct to simplify, judge, and distance. If we were handed the same life, the same pressures, the same absence of support, would our choices truly look different? Holding that question forces a shift in how we read images and how easily we accept the criminal labels assigned to others. By reframing the visual language surrounding incarceration, the work insists on acknowledging the full complexity of people’s circumstances and pushes against the belief that a single moment defines a life. What emerges is a space for reconsidering how we understand humanity and how deeply our systems, and our own instincts, determine who is granted empathy in the first place.
 
+Selected Photos :
+
+<img src="../img/never_wanted/image18.jpg" width="300" height="300">
+<img src="../img/never_wanted/image27.jpg" width="300" height="300">
+<img src="../img/never_wanted/image42.jpg" width="300" height="300">
+<img src="../img/never_wanted/image51.jpg" width="300" height="300">
+<img src="../img/never_wanted/image7.jpg" width="300" height="300">
+<img src="../img/never_wanted/image9.jpg" width="300" height="300">
