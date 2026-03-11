@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/tennessee2/image16.jpg
-title: "The Tennessee I See Pt 2"
+title: "What I See of Tennessee - Series 2"
 date: 2025
 published: true
 labels:
