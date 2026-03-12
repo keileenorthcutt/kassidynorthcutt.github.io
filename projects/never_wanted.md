@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/never_wanted/image18.jpg
-title: "I'm a Man I Never Wanted to Be"
+title: "'I'm a Man I Never Wanted to Be'"
 date: 2025-present
 published: true
 labels:
@@ -22,9 +22,9 @@ Ultimately, the work challenges the instinct to simplify, judge, and distance. I
 
 Selected Photos :
 
-<img src="../img/never_wanted/image18.jpg" width="300" height="300">
-<img src="../img/never_wanted/image27.jpg" width="300" height="300">
-<img src="../img/never_wanted/image42.jpg" width="300" height="300">
-<img src="../img/never_wanted/image51.jpg" width="300" height="300">
-<img src="../img/never_wanted/image7.jpg" width="300" height="300">
-<img src="../img/never_wanted/image9.jpg" width="300" height="300">
+<img src="../img/never_wanted/image18.jpg" width="300" height="200">
+<img src="../img/never_wanted/image27.jpg" width="300" height="200">
+<img src="../img/never_wanted/image42.jpg" width="300" height="200">
+<img src="../img/never_wanted/image51.jpg" width="300" height="400">
+<img src="../img/never_wanted/image7.jpg" width="300" height="400">
+<img src="../img/never_wanted/image9.jpg" width="300" height="400">
