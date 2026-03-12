@@ -10,4 +10,4 @@ labels:
   - Conceptual
 ---
 
-<img src="../img/tides/image13.jpg" width="300" height="300">
+<img src="../img/tides/image13.jpg" width="600" height="400">
