@@ -17,7 +17,7 @@ labels:
 Selected Photos :
 
 <img src="../img/tennessee1/image12.jpg" width="300" height="400">
-<img src="../img/tennessee1/image22.jpg" width="600" height="400">
+<img src="../img/tennessee1/image22.jpg" width="550" height="400">
 <img src="../img/tennessee1/image28.jpg" width="600" height="400">
 <img src="../img/tennessee1/image32.jpg" width="600" height="400">
 <img src="../img/tennessee1/image33.jpg" width="518" height="400">
