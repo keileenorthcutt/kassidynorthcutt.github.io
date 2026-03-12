@@ -23,6 +23,7 @@ Selected Photos :
 <img src="../img/found_photos/image24.jpg" width="550" height="400">
 <img src="../img/found_photos/image29.jpg" width="400" height="400">
 <img src="../img/found_photos/image3.jpg" width="600" height="500">
+<img src="../img/found_photos/image55.jpg" width="600" height="400">
 <img src="../img/found_photos/image30.jpg" width="600" height="400">
 <img src="../img/found_photos/image31.jpg" width="600" height="400">
 <img src="../img/found_photos/image39.jpg" width="400" height="400">
@@ -30,7 +31,7 @@ Selected Photos :
 <img src="../img/found_photos/image43.jpg" width="600" height="400">
 <img src="../img/found_photos/image49.jpg" width="400" height="400">
 <img src="../img/found_photos/image54.jpg" width="400" height="400">
-<img src="../img/found_photos/image55.jpg" width="600" height="400">
+
 <img src="../img/found_photos/image57.jpg" width="600" height="400">
 
 
