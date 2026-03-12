@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/found_photos/image24.jpg
-title: "Lost & Found Photos"
+title: "Lost & Found Photographs"
 date: 2025
 published: true
 labels:
