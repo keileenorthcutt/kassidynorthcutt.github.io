@@ -20,11 +20,11 @@ Who Taught You to Hate Yourself? is a portrait series that explores how beauty s
 
 Selected Photos :
 
-<img src="../img/who_taught_you/image1.jpg" width="300" height="300">
-<img src="../img/who_taught_you/image2.jpg" width="300" height="300">
-<img src="../img/who_taught_you/image20.jpg" width="300" height="300">
-<img src="../img/who_taught_you/image21.jpg" width="300" height="300">
-<img src="../img/who_taught_you/image25.jpg" width="300" height="300">
-<img src="../img/who_taught_you/image26.jpg" width="300" height="300">
-<img src="../img/who_taught_you/image34.jpg" width="300" height="300">
-<img src="../img/who_taught_you/image47.jpg" width="300" height="300">
+<img src="../img/who_taught_you/image1.jpg" width="491" height="400">
+<img src="../img/who_taught_you/image2.jpg" width="438" height="400">
+<img src="../img/who_taught_you/image20.jpg" width="600" height="400">
+<img src="../img/who_taught_you/image21.jpg" width="600" height="400">
+<img src="../img/who_taught_you/image25.jpg" width="600" height="400">
+<img src="../img/who_taught_you/image26.jpg" width="600" height="400">
+<img src="../img/who_taught_you/image34.jpg" width="510" height="400">
+<img src="../img/who_taught_you/image47.jpg" width="279" height="400">
