@@ -15,8 +15,8 @@ labels:
 
 Selected Photos :
 
-<img src="../img/self_portraits/image40.jpg" width="300" height="300">
-<img src="../img/self_portraits/image5.jpg" width="300" height="300">
+<img src="../img/self_portraits/image40.jpg" width="600" height="400">
+<img src="../img/self_portraits/image5.jpg" width="600" height="400">
 
 
 
