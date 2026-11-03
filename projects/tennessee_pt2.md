@@ -24,7 +24,7 @@ Selected Photos :
 <img src="../img/tennessee2/image58.jpg" width="600" height="400">
 <img src="../img/tennessee2/image8.jpg" width="400" height="500">
 
-35mm Expired Film :
+Negatives :
 
 <img src="../img/tennessee1/image14.jpg" width="600" height="400">
 <img src="../img/tennessee1/image17.jpg" width="600" height="400">
