@@ -13,7 +13,7 @@ labels:
   - Candid
 ---
 
-Selected Photos : 
+Selected Photos :<br>
 35mm Expired Film
 
 <img src="../img/tennessee2/image15.jpg" width="600" height="400">
