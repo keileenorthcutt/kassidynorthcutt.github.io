@@ -22,7 +22,7 @@ Selected Photos :
 <img src="../img/tennessee2/image37.jpg" width="600" height="400">
 <img src="../img/tennessee2/image56.jpg" width="505" height="400">
 <img src="../img/tennessee2/image58.jpg" width="600" height="400">
-<img src="../img/tennessee2/image8.jpg" width="500" height="400">
+<img src="../img/tennessee2/image8.jpg" width="400" height="500">
 
 35mm Expired Film :
 
