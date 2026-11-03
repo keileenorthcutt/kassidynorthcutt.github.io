@@ -4,7 +4,7 @@ type: project
 image: img/tennessee1/image22.jpg
 title: "Landscapes"
 date: 2024
-published: true
+published: false
 labels:
   - Candid
   - Perspective
