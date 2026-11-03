@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/tennessee2/image16.jpg
 title: "What I See of Tennessee"
-date: 2025
+date: 2024-present
 published: true
 labels:
   - 35mm Expired Film
