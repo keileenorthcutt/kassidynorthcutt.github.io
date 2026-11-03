@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/never_wanted/image18.jpg
-title: "'A Man I Never Wanted to Be'"
+title: '"A Man I Never Wanted to Be"'
 date: 2025-present
 published: true
 labels:
