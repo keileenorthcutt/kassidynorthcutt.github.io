@@ -11,9 +11,11 @@ labels:
   - Documentary
   - Perspective
   - Candid
+  - Digital
 ---
 
-Selected Photos :
+Selected Photos :<br>
+Digital :
 
 <img src="../img/tennessee1/image12.jpg" width="300" height="400">
 <img src="../img/tennessee1/image22.jpg" width="300" height="400">
