@@ -29,7 +29,7 @@ Selected Photos :
 <!-- <img src="../img/never_wanted/image9.jpg" width="300" height="400"> -->
 <img src="../img/never_wanted/beach_h_450x300.jpeg" width="450" height="300">
 <img src="../img/never_wanted/momma&daniel_h_450x300.jpeg" width="450" height="300">
-<img src="../img/never_wanted/danielescapevsreality_h_400x300.jpeg" width="400" height="300">
+<img src="../img/never_wanted/danielsescapevsreality_h_400x300.jpeg" width="400" height="300">
 <img src="../img/never_wanted/danielaccomplishments_h_450x300.jpeg" width="450" height="300">
 <img src="../img/never_wanted/personalarchive_h_450x300.jpeg" width="450" height="300">
 <img src="../img/never_wanted/timmy_h_450x318.jpeg" width="450" height="318">
