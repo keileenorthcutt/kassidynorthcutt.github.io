@@ -22,9 +22,21 @@ Ultimately, the work challenges the instinct to simplify, judge, and distance. I
 
 Selected Photos :
 
-<img src="../img/never_wanted/image18.jpg" width="600" height="400">
 <img src="../img/never_wanted/image27.jpg" width="600" height="400">
 <img src="../img/never_wanted/image42.jpg" width="600" height="400">
 <img src="../img/never_wanted/image51.jpg" width="300" height="400">
 <img src="../img/never_wanted/image7.jpg" width="300" height="400">
-<img src="../img/never_wanted/image9.jpg" width="300" height="400">
+<!-- <img src="../img/never_wanted/image9.jpg" width="300" height="400"> -->
+<img src="../img/never_wanted/beach_h_450x300.jpeg" width="450" height="300">
+<img src="../img/never_wanted/momma&daniel_h_450x300.jpeg" width="450" height="300">
+<img src="../img/never_wanted/danielescapevsreality_h_400x300.jpeg" width="400" height="300">
+<img src="../img/never_wanted/danielaccomplishments_h_450x300.jpeg" width="450" height="300">
+<img src="../img/never_wanted/personalarchive_h_450x300.jpeg" width="450" height="300">
+<img src="../img/never_wanted/timmy_h_450x318.jpeg" width="450" height="318">
+<img src="../img/never_wanted/ascending_v_375x500.jpeg" width="375" height="500">
+<img src="../img/never_wanted/shanewalkingout_h_500x352.jpeg" width="500" height="352">
+<img src="../img/never_wanted/bandit_v_300x400.jpeg" width="300" height="400">
+<img src="../img/never_wanted/barsoffreedom_v_300x400.jpeg" width="300" height="400">
+<img src="../img/never_wanted/shane_v_350x452.jpeg" width="350" height="452">
+<img src="../img/never_wanted/thanksgivingmeal_h_400x300.jpeg" width="400" height="300">
+<img src="../img/never_wanted/blurryshane_h_400x225.jpeg" width="400" height="225">
