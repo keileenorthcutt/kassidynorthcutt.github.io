@@ -16,7 +16,7 @@ labels:
 
 Artist Statement: 
 
-The medium of photography has allowed generations of individuals to document their lives and their loved ones but what happens to these cherished moments once generations have passed? These images often end up discarded and tossed away, only to end up in estate sales, thrift stores, and online marketplaces - often losing their original context and meaning. However, even when abandoned and no one can definitively recognize the truth of what is going on in the frame, they continue to have value through their personal history and human connection. My current long term project explores this concept by breathing new life into lost images, many of which have been overlooked or simply thrown away. By restoring them through historical techniques often used on vernacular photographs, such as layering, handwriting, and physical arrangement, I manipulate their original context to create new narratives. This body of work invites reflection on memory, loss, and how personal moments become part of a larger collective history. It also responds to how photography has shifted in the digital age, encouraging individuals to slow down and reconsider the emotional weight as well as the lasting impact of everyday images in a world where you can take thirty-plus images in a fraction of a second.   
+The medium of photography has allowed generations of individuals to document their lives and their loved ones, but what happens to these cherished moments once generations have passed? These images often end up discarded and tossed away, only to end up in estate sales, thrift stores, and online marketplaces - often losing their original context and meaning. However, even when abandoned and no one can definitively recognize the truth of what is going on in the frame, they continue to have value through their personal history and human connection. My current long-term project explores this concept by breathing new life into lost images, many of which have been overlooked or simply thrown away. By restoring them through historical techniques often used on vernacular photographs, such as layering, handwriting, and physical arrangement, I manipulate their original context to create new narratives. This body of work invites reflection on memory, loss, and how personal moments become part of a larger collective history. It also responds to how photography has shifted in the digital age, encouraging individuals to slow down and reconsider the emotional weight as well as the lasting impact of everyday images in a world where you can take thirty-plus images in a fraction of a second.   
 
 Selected Photos :
 
@@ -31,7 +31,9 @@ Selected Photos :
 <img src="../img/found_photos/image43.jpg" width="600" height="400">
 <img src="../img/found_photos/image49.jpg" width="400" height="400">
 <img src="../img/found_photos/image54.jpg" width="400" height="400">
-
 <img src="../img/found_photos/image57.jpg" width="600" height="400">
+<img src="../img/found_photos/sewnfam_h_400x270.jpeg" width="400" height="270">
+<img src="../img/found_photos/questionmarks_h_400x311.jpeg" width="400" height="311">
+<img src="../img/found_photos/dadanddaugter_h_400x307.jpeg" width="400" height="307">
 
 
