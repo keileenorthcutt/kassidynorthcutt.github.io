@@ -34,6 +34,6 @@ Selected Photos :
 <img src="../img/found_photos/image57.jpg" width="600" height="400">
 <img src="../img/found_photos/sewnfam_h_400x270.jpeg" width="400" height="270">
 <img src="../img/found_photos/questionmarks_h_400x311.jpeg" width="400" height="311">
-<img src="../img/found_photos/dadanddaugter_h_400x307.jpeg" width="400" height="307">
+<img src="../img/found_photos/dadanddaughter_h_400x307.jpeg" width="400" height="307">
 
 
