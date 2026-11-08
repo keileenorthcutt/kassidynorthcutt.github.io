@@ -40,3 +40,10 @@ Selected Photos :
 <img src="../img/never_wanted/shane_v_350x452.jpeg" width="350" height="452">
 <img src="../img/never_wanted/thanksgivingmeal_h_400x300.jpeg" width="400" height="300">
 <img src="../img/never_wanted/blurryshane_h_400x225.jpeg" width="400" height="225">
+
+<img src="../img/never_wanted/salt1_h_400x300.jpeg" width="400" height="300">
+<img src="../img/never_wanted/sketchy_h_400x300.jpeg" width="400" height="300">
+<img src="../img/never_wanted/salt3_h_400x300.jpeg" width="400" height="300">
+<img src="../img/never_wanted/salt4_h_400x300.jpeg" width="400" height="300">
+<img src="../img/never_wanted/letter_v_300x400.jpeg" width="300" height="400">
+
